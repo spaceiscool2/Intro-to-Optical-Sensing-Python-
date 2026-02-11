@@ -1,1 +1,1 @@
-Especially in later homeworks, and the cmr, there may be 1 or 2 errors unaccounted for.
+Especially in later homeworks, and the cmr, there may be 1 or 2 errors unaccounted for. For the cmr, the file was run via vscode in order for ncview and ncdump to work. Issues with this access caused me to start using Linux on my main PC as a result, allowing for more freedom without coding issues.
